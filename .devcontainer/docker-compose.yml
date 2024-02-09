@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   services:
-    container_name: lib
+    container_name: lib  # TODO change this to your project name
     init: true
     build:
       context: ..

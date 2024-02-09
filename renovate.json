@@ -9,6 +9,9 @@
     "schedule": [
       "0 3 * * *"
     ],
+    "repositories": [
+      "GWS-mbH/python-lib-template"
+    ],
     "ignorePaths": [],
     "packageRules": [
       {
