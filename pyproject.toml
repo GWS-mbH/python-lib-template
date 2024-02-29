@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "python-lib-template"  # TODO
 description = "Template for python libs"  # TODO
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 authors = ["GWS Gesellschaft für Warenwirtschafts-Systeme mbH <ebusiness@gws.ms>"]
 readme = "README.md"
