@@ -23,7 +23,7 @@ Bugtracker = "https://github.com/GWS-mbH/python-lib-template"  # TODO
 python = "^3.12"
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.8.0"
+mypy = "^1.9.0"
 pytest = "^8.0.2"
 coverage = "^7.4.0"
 pytest-cov = "^4.1.0"
